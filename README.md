@@ -1,7 +1,7 @@
 # 📚 Wiki – CS50W Web Application Project
 
 > A Wikipedia-like web application that allows users to create, edit, and search for wiki pages.  
-> Developed as part of **Harvard's CS50 Web Programming (CS50W)** course to demonstrate CRUD operations and dynamic content management.
+> Developed as part of **Harvard's CS50 Web Programming (CS50W)** course 
 
 🔒 The source code is private to comply with CS50’s academic honesty policy.  
 📩 A demo or private walkthrough is available upon request.
